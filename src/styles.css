@@ -1,0 +1,33 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+a{
+    margin: 2px;
+}
+button{
+    margin: 2px;
+}
+
+body{
+    overflow-y: scroll;
+}
+.smallImg{
+    width:100%;
+    height:auto;
+}
+.smallImgDiv{
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+
+}
+.circAvatar{
+    border-radius: 50%;
+    margin-left: 15px;
+    height: 75px;
+    width: 75px;
+    overflow: hidden;
+
+}
+.td{
+    border-top: 1px solid lightgray;
+    padding-left:10px;
+}

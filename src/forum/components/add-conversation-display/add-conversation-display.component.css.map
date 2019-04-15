@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,cAAc;EACZ,gBAAgB,EAAE,MAAM;EACxB,MAAM,EAAE,OAAO;EACf,KAAK,EAAE,KAAK",
+"sources": ["add-conversation-display.component.scss"],
+"names": [],
+"file": "add-conversation-display.component.css"
+}

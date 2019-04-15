@@ -1,0 +1,9 @@
+.listI {
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  margin: 10px; }
+
+a:hover {
+  text-decoration: none; }
+
+/*# sourceMappingURL=conversation-list-display.component.css.map */

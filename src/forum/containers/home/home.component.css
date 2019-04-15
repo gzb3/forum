@@ -1,0 +1,35 @@
+.forum {
+  min-width: 1000px; }
+
+.myTable {
+  border: 1px solid whitesmoke;
+  margin: 20px; }
+
+.rpanel {
+  min-width: 350px;
+  max-width: 1200px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  margin: 20px; }
+
+.stats {
+  border: 1px solid whitesmoke;
+  display: flex;
+  padding-left: 10%; }
+
+.forumTitle {
+  background-color: grey;
+  padding: 15px;
+  color: white;
+  border-radius: 3px; }
+
+.sidePanelTitle {
+  background-color: grey;
+  padding: 7px;
+  color: white; }
+
+@media only screen and (max-width: 800px) {
+  .homeContainer {
+    flex-direction: column; } }
+
+/*# sourceMappingURL=home.component.css.map */

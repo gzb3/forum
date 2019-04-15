@@ -1,0 +1,38 @@
+.post{
+  border: 1px solid lightgray;
+  margin: 20px;
+  border-bottom: 15px solid rgba(138,133,138,0.22) ;
+  border-radius: 7px;
+
+}
+
+.postAuthor{
+  margin: 20px;
+  min-width: 200px;
+  padding-right: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+*{
+  margin:3px;
+}
+
+.postHF{
+  background-color: rgba(242,235,255,0.44);
+  font-size: larger;
+  margin: 10px;
+
+}
+.spanRight{
+  float: right;
+  margin-right: 20px;
+
+}
+
+.innerFooter{
+  height:auto;
+}

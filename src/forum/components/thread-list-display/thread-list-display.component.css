@@ -1,0 +1,10 @@
+.threadName {
+  width: 1500px;
+  padding-left: 20px; }
+
+.myTable {
+  table-layout: fixed;
+  border: 1px solid lightgray;
+  border-top: 0; }
+
+/*# sourceMappingURL=thread-list-display.component.css.map */

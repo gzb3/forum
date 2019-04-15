@@ -1,0 +1,23 @@
+.text{
+  background-color: whitesmoke;
+}
+
+.ourMessage{
+  display: flex;
+  flex-direction: row;
+
+}
+.othersMessage{
+  display: flex;
+  flex-direction: row-reverse;
+}
+.textbox{
+  margin-left: 40px;
+  margin-right: 40px;
+  min-width: 200px;
+  max-width: 500px;
+  background-color:darkcyan;
+  color: white;
+  border-radius: 10px     10px      10px           10px;
+  padding: 10px
+}

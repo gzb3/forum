@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACT,KAAK,EAAE,MAAM;EACb,YAAY,EAAE,IAAI;;AAGpB,QAAQ;EACN,YAAY,EAAE,KAAK;EACnB,MAAM,EAAE,mBAAmB;EAC3B,UAAU,EAAE,CAAC",
+"sources": ["thread-list-display.component.scss"],
+"names": [],
+"file": "thread-list-display.component.css"
+}

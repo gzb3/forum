@@ -1,0 +1,26 @@
+.newMessagesDiv {
+  width: 300px; }
+
+.circAvatar {
+  height: 45px;
+  min-width: 45px;
+  width: 45px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  border-right: 1px solid whitesmoke; }
+
+.hdiv {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  margin-top: 20%; }
+
+.h {
+  color: lightgray;
+  margin-top: 30%; }
+
+.uList {
+  padding: 0; }
+
+/*# sourceMappingURL=new-messages-display.component.css.map */
