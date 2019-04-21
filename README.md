@@ -15,7 +15,7 @@ You can see this project [here](http://exampleapp.byethost5.com/)
 ### Features
 * Private Conversations
 * Post Editing and Quoting
-* Report offensive or unwelcome post
+* Sign up, log in, create thread, create post, create conversatoin, send message, check unread messages, report post
 * Admin tools - delete posts, delete threads, lock threads, ban users, delete users and content
 
 ### Screenshots  
