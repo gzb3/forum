@@ -19,5 +19,9 @@ You can see this project [here](http://exampleapp.byethost22.com/)
 * Admin tools - delete posts, delete threads, lock threads, ban users, delete users and content
 
 ### Screenshots  
-
+![Screenshot (34)](https://user-images.githubusercontent.com/49139093/69495196-8bcbf580-0ec4-11ea-9d17-818273846396.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/49139093/69495200-8f5f7c80-0ec4-11ea-979e-e16dad18f7c1.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/49139093/69495201-98e8e480-0ec4-11ea-94af-a4c9fec65c5c.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/49139093/69495205-9edec580-0ec4-11ea-847c-9803dd417218.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/49139093/69495213-ad2ce180-0ec4-11ea-9218-317f8afed7a6.png)
 ![screenshots](https://user-images.githubusercontent.com/49139093/55714878-c5aec100-59f3-11e9-9f2e-b53afc3f8516.png)
