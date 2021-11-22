@@ -1,6 +1,6 @@
 ## Forum
 Simple practice project  
-You can see this project [here](http://exampleapp.byethost22.com/)
+You can see this project [here](http://practice-projects.infinityfreeapp.com/)
 
 
 
